@@ -5,3 +5,5 @@ Aslında vscode, atom gibi editorler yerine neden vim tercih ediyorum?
 **2-** elinizi kaldırmadan hertürlü işlemi yapabılıyor olmanız.
   
   
+![v1](https://user-images.githubusercontent.com/56169582/87810931-77c77080-c866-11ea-897c-c1f452015096.png)    
+![v2](https://user-images.githubusercontent.com/56169582/87810939-79913400-c866-11ea-9dc6-480e3d4fb1ea.png)
