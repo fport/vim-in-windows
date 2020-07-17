@@ -2,7 +2,7 @@
 ### Windows'ta Vim Kullanımı ### 
 **Neden** vscode, atom gibi editorler yerine neden *vim* tercih ediyorum?  
 **1-** Ekşide gördüğüm bi yazıyı aktarıcam :stuck_out_tongue_winking_eye: *"istege gore text editor, ide, oyun ortami, at, avrat, silah vs... olabilen sekilden sekile giren asmis text editoru"*  
-**2-** Elinizi kaldırmadan hertürlü işlemi yapabiliyor olması en cekici özellği diyebilirim.  
+**2-** Elinizi kaldırmadan hertürlü işlemi yapabiliyor olması en cekici özelliği diyebilirim. Bu özellik sayesinde projelerinizde ciddi anlamda *süre kazancağınızdan* emin olun!
 **3-** Kısa Yollar için bilgi edinmek isterseniz :  [Vim Kısayol Haritası](https://github.com/p1v0t/VimKisayollari)  
   
   ## Bir Kaç Görüntü :seedling: ##  
