@@ -37,7 +37,26 @@
 
   "schemes": [
     {
-    "name": "MonaLisa",
+     "name": "MonaLisa",
+      "black": "#000000",
+      "red": "#20201e",
+      "green": "#888887",
+      "yellow": "#c36e28",
+      "blue": "#515c5d",
+      "purple": "#f03548",
+      "cyan": "#588056",
+      "white": "#4A4B4B",
+      "brightBlack": "#1F1F1F",
+      "brightRed": "#ff4331",
+      "brightGreen": "#e30dff",
+      "brightYellow": "#FD971F",
+      "brightBlue": "#26d9f8",
+      "brightPurple": "#F92672",
+      "brightCyan": "#A6E22E",
+      "brightWhite": "#cecec8",
+      "background": "#111010",
+      "foreground": "#ffffff"
+    /*  "name": "MonaLisa",
       "black": "#351b0e",
       "red": "#272822",
       "green": "#636232",
@@ -55,7 +74,7 @@
       "brightCyan": "#A6E22E",
       "brightWhite": "#FFB2F9",
       "background": "#000000",
-      "foreground": "#f7d66a"
+      "foreground": "#f7d66a"*/
       
      /*"name": "MonaLisa",
       "black": "#351b0e",
