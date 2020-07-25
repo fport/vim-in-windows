@@ -18,7 +18,7 @@
 - Editor görünümü için : [NERDtree](https://github.com/preservim/nerdtree)  
 
 ## Windows Terminal Tema Önerileri :droplet:
-- Tek yapmanız gereken Windows terminali açıp **Settings(Kısayolu: Ctrl+,)** kopyaladıgınız temayı yapıştırmak !  
+- Tek yapmanız gereken Windows terminali açıp **Settings(Kısayolu: Ctrl+,)** kopyaladıgınız [temayı](https://atomcorp.github.io/themes/) yapıştırmak !  
 
 ## **Önemli Bir Hatırlatma**
 - Yukarıda önerdiğim pluginlerin install dokümanlarındaki '~' yerine '%USERPROFILE%' kullanınız (Windows)  
