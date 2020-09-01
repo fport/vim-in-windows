@@ -85,6 +85,12 @@ nnoremap k gk
 set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
 autocmd BufWritePre *.js %s/\s\+$//e
 
+Automatically insert a matching brace in Vim
+inoremap { {}<ESC>ha
+inoremap ( ()<ESC>ha
+inoremap " ""<ESC>ha
+inoremap ' ''<ESC>ha
+
 set backup
 set backupdir=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 set backupskip=/tmp/*,/private/tmp/*
